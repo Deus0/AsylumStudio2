@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Asylum\Scripts\Management\TurnManager.cs">
+    <Files>
+      <File FileName="Assets\Asylum\Scripts\Management\TurnManager.cs" Line="131" Column="43" />
+      <File FileName="Assets\Asylum\Scripts\Utilities\GetManager.cs" Line="16" Column="3" />
+      <File FileName="Assets\Asylum\Scripts\Gaurds\Guard.cs" Line="36" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
